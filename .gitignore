@@ -5,6 +5,6 @@ dist
 
 *.local
 *.log
-.*.env
+.env*
 # Visual Studio cache/options directory
 .vs/
