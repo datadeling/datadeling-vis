@@ -19,8 +19,14 @@ function parseSheet(sheet) {
   let parent = []
   let last
 
+  let cnt = 0
+
   json.forEach((el) => {
+    // if (cnt > 50) return
+    cnt++
+
     el.level = parseInt(el['Nivå'])
+    el.Navn = el.Navn.trim()
     if (last) {
       if (el.level > last.level) {
         parent.push(last.Orgnr)
@@ -35,7 +41,14 @@ function parseSheet(sheet) {
 
     let prefix = ''
     for (let i = 0; i < el.level; i++) prefix += '  '
-    console.log(prefix, el.level, el.Orgnr, 'parent ' + el.parent, parent)
+    let parentStr = ''
+    if (el.parent)
+      parentStr = 'parent ' + el.parent + ' - ' + catalog[el.parent].Navn
+    console.log(prefix, el.level, el.Orgnr, parentStr, parent)
+    catalog[el.Orgnr] = el
     last = el
   })
+
+  let keys = Object.keys(catalog)
+  console.log(catalog[keys[0]])
 }
