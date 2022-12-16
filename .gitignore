@@ -10,4 +10,5 @@ dist
 .vs/
 *.xlsx
 *.xls
-tmp.txt
+public/scripts/tmp.txt
+public/scripts/test.svg
