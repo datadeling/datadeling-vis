@@ -10,8 +10,10 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "xlsx": "https://cdn.sheetjs.com/xlsx-0.19.1/xlsx-0.19.1.tgz",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "svg-parser": "^2.0.4",
+    "treemap-squarify": "^1.0.1",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.19.1/xlsx-0.19.1.tgz"
   },
   "devDependencies": {
     "@types/react": "^18.0.24",
