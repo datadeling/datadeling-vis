@@ -11,4 +11,4 @@ dist
 *.xlsx
 *.xls
 public/scripts/tmp.txt
-public/scripts/test.svg
+public/scripts/test*.svg
