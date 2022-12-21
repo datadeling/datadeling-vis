@@ -9,8 +9,14 @@ let data = fs.readFileSync(filename)
 let workbook = XLSX.read(data)
 
 let sheets = Object.keys(workbook.Sheets)
-let o = XLSX.utils.sheet_to_json(workbook.Sheets[sheets[0]])
-parseSheet(workbook.Sheets[sheets[0]])
+console.log(sheets)
+sheets.forEach((sheet) => {
+  parseSheet(workbook.Sheets[sheet])
+
+  console.log(sheet, Object.keys(catalog).length, 'datasets')
+})
+
+console.log(catalog)
 
 function parseSheet(sheet) {
   let json = XLSX.utils.sheet_to_json(sheet)
@@ -22,7 +28,6 @@ function parseSheet(sheet) {
   let cnt = 0
 
   json.forEach((el) => {
-    // if (cnt > 50) return
     cnt++
 
     el.level = parseInt(el['Nivå'])
@@ -31,9 +36,9 @@ function parseSheet(sheet) {
       if (el.level > last.level) {
         parent.push(last.Orgnr)
       } else if (el.level < last.level) {
-        console.log(parent)
+        // console.log(parent)
         parent.pop()
-        console.log('pop', parent)
+        // console.log('pop', parent)
       }
     }
 
@@ -44,11 +49,18 @@ function parseSheet(sheet) {
     let parentStr = ''
     if (el.parent)
       parentStr = 'parent ' + el.parent + ' - ' + catalog[el.parent].Navn
-    console.log(prefix, el.level, el.Orgnr, parentStr, parent)
+    // console.log(prefix, el.level, el.Orgnr, parentStr, parent)
     catalog[el.Orgnr] = el
     last = el
   })
 
   let keys = Object.keys(catalog)
-  console.log(catalog[keys[0]])
+  keys.sort()
+  keys.forEach((el) => {
+    if (catalog[el].parent) delete catalog[el].parent
+    console.log(el)
+  })
 }
+
+console.log('Write file ')
+fs.writeFileSync('brreg_offentlig_sektor.json', JSON.stringify(catalog))
