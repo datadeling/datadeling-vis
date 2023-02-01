@@ -15,10 +15,21 @@ console.log(sheets)
 sheets.forEach((sheet) => {
   parseSheet(workbook.Sheets[sheet])
 
-  console.log(sheet, Object.keys(catalog).length, 'datasets')
+  console.log(sheet, `${Object.keys(catalog).length} organizations`)
 })
 
-console.log(catalog)
+let catalogKeys = Object.keys(catalog)
+let cnt = 0
+catalogKeys.forEach((key) => {
+  const org = catalog[key]
+
+  if (org['Organisasjonsform'] === 'ORGL') {
+    cnt++
+    if (cnt < 10) console.log(org)
+  }
+})
+
+console.log(`${cnt} ORGL`)
 
 function parseSheet(sheet) {
   let json = XLSX.utils.sheet_to_json(sheet)
