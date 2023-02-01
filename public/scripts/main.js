@@ -1,12 +1,7 @@
 import fs from 'fs'
-import { getTreemap } from 'treemap-squarify'
-import {
-  createTreemap,
-  createTreemapHierarchical,
-} from './treemap_generator.js'
-import { parseMunicipalityMap } from './municipalities.js'
-import { ColorTool } from './colorTool.js'
-import { ObjectSet } from './objectSet.js'
+import { createTreemap, createTreemapHierarchical } from './TreemapGenerator.js'
+import { ColorTool } from './ColorTool.js'
+import { ObjectSet } from './ObjectSet.js'
 
 // config
 const filename = '../data/fdk_api_short.json'
@@ -42,6 +37,8 @@ orgs.forEach((o) => {
 console.log('max datasets', maxDatasets, 'minDatasets', minDatasets)
 console.log('map 0.33', map(133, 100, 200))
 
+//// Create data set for simple treemap
+
 const treeData = { data: [], width: w, height: h }
 orgs.forEach((o) => {
   treeData.data.push({
@@ -57,6 +54,11 @@ orgs.forEach((o) => {
     label: o.prefLabel,
   })
 })
+
+createTreemap(treeData, 'output/FDK-datadeling-enkel.svg', w, h)
+
+//// Divide data into categories for STAT, KOMMUNE, ANNET to create
+//// hierarchical treemap
 
 let STAT = 0,
   KOMMUNE = 1,
@@ -77,8 +79,6 @@ treeData.data.forEach((el) => {
   }
 })
 
-createTreemap(treeData, 'output/FDK-datadeling-enkel.svg', w, h)
-
 treeData.data.forEach((o) => {
   if (o.org.orgPath.startsWith('/KOMM')) treeHierachy.data[KOMMUNE].push(o)
   else if (o.org.orgPath.startsWith('/STAT')) treeHierachy.data[STAT].push(o)
@@ -88,12 +88,6 @@ treeData.data.forEach((o) => {
 treeHierachy.data.forEach((cat) => console.log(cat.length))
 
 createTreemapHierarchical(treeHierachy, 'output/FDK-Hierarkisk.svg', w, h)
-
-// parseMunicipalityMap('../data/2020_Norwegian_Municipalities_Map.svg')
-
-function map(val, min, max) {
-  return (val - min) / (max - min)
-}
 
 //////////////////////////
 //// Parse FDK dataset
@@ -158,4 +152,8 @@ function parseFDK(filename) {
   keywords.items.sort((a, b) => {
     return b.datasets.length - a.datasets.length
   })
+}
+
+function map(val, min, max) {
+  return (val - min) / (max - min)
 }
