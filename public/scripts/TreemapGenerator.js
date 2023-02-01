@@ -3,6 +3,8 @@ import { getTreemap } from 'treemap-squarify'
 import { SVGNode, SVGUtil } from './SVGUtil.js'
 
 export function createTreemap(treeData, filename, w, h) {
+  console.log(`Generating simple treemap (${treeData.data.length} units)`)
+
   treeData.width = w
   treeData.height = h
 
@@ -12,6 +14,8 @@ export function createTreemap(treeData, filename, w, h) {
 
   const doc = treemapToSVG(treemap)
   fs.writeFileSync(filename, doc.str())
+
+  console.log(`Exporting '${filename}'\n\n`)
 }
 
 // process data and generate treemap
@@ -35,6 +39,8 @@ function calcTreemap(treeData) {
 export function createTreemapHierarchical(treeData, filename, w, h) {
   treeData.width = w
   treeData.height = h
+
+  console.log(`Generating hierarchical treemap (${treeData.data.length} units)`)
 
   const topLevel = { width: w, height: h, data: [] }
 
@@ -61,7 +67,6 @@ export function createTreemapHierarchical(treeData, filename, w, h) {
 
     let map = calcTreemap(level)
     maps.push(map)
-    console.log('\n\n', level)
   })
 
   const totalMap = []
@@ -72,6 +77,7 @@ export function createTreemapHierarchical(treeData, filename, w, h) {
   totalMap.width = treeData.width
   totalMap.height = treeData.height
   fs.writeFileSync(filename, treemapToSVG(totalMap).str())
+  console.log(`Exporting '${filename}'\n\n`)
 }
 
 function treemapToSVG(treemap) {

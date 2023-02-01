@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="800">
   <g>
-    <rect x="0" y="0" width="345.76" height="473.95" fill="#ceddef" stroke="#ffffff">
+    <rect x="0" y="0" width="345.76" height="473.95" fill="#ff0000" stroke="#ffffff">
     </rect>
     <text x="22" y="245.775" style="font-size:22px; color:#000000">
       Kartverket
@@ -10,7 +10,7 @@
     </text>
   </g>
   <g>
-    <rect x="0" y="473.95" width="345.76" height="326.05" fill="#e0cfee" stroke="#ffffff">
+    <rect x="0" y="473.95" width="345.76" height="326.05" fill="#ff3f3f" stroke="#ffffff">
     </rect>
     <text x="22" y="632.575" style="font-size:22px; color:#000000">
       Stavanger
@@ -23,7 +23,7 @@
     </text>
   </g>
   <g>
-    <rect x="345.76" y="0" width="252.06" height="248.99" fill="#ceddef" stroke="#ffffff">
+    <rect x="345.76" y="0" width="252.06" height="248.99" fill="#ff7e7e" stroke="#ffffff">
     </rect>
     <text x="367.76" y="120.095" style="font-size:22px; color:#000000">
       Landbruks-
@@ -36,7 +36,7 @@
     </text>
   </g>
   <g>
-    <rect x="345.76" y="248.99" width="252.06" height="195.97" fill="#ceddef" stroke="#ffffff">
+    <rect x="345.76" y="248.99" width="252.06" height="195.97" fill="#ff8f8f" stroke="#ffffff">
     </rect>
     <text x="367.76" y="342.57500000000005" style="font-size:22px; color:#000000">
       Statens
@@ -49,7 +49,7 @@
     </text>
   </g>
   <g>
-    <rect x="345.76" y="444.96" width="252.06" height="186.74" fill="#ceddef" stroke="#ffffff">
+    <rect x="345.76" y="444.96" width="252.06" height="186.74" fill="#ff9191" stroke="#ffffff">
     </rect>
     <text x="367.76" y="533.93" style="font-size:22px; color:#000000">
       Norsk institutt for
@@ -62,7 +62,7 @@
     </text>
   </g>
   <g>
-    <rect x="345.76" y="631.7" width="252.06" height="168.3" fill="#ceddef" stroke="#ffffff">
+    <rect x="345.76" y="631.7" width="252.06" height="168.3" fill="#ff9797" stroke="#ffffff">
     </rect>
     <text x="367.76" y="724.65" style="font-size:22px; color:#000000">
       Nasjonalbiblioteket
@@ -72,7 +72,7 @@
     </text>
   </g>
   <g>
-    <rect x="597.82" y="0" width="232.89" height="174.67" fill="#ceddef" stroke="#ffffff">
+    <rect x="597.82" y="0" width="232.89" height="174.67" fill="#ff9999" stroke="#ffffff">
     </rect>
     <text x="619.82" y="82.935" style="font-size:22px; color:#000000">
       Statistisk
@@ -85,7 +85,7 @@
     </text>
   </g>
   <g>
-    <rect x="830.71" y="0" width="206.27" height="174.67" fill="#ceddef" stroke="#ffffff">
+    <rect x="830.71" y="0" width="206.27" height="174.67" fill="#ff9f9f" stroke="#ffffff">
     </rect>
     <text x="852.71" y="82.935" style="font-size:22px; color:#000000">
       Digitaliserings-
@@ -98,7 +98,7 @@
     </text>
   </g>
   <g>
-    <rect x="1036.98" y="0" width="163.02" height="174.67" fill="#ceddef" stroke="#ffffff">
+    <rect x="1036.98" y="0" width="163.02" height="174.67" fill="#ffa9a9" stroke="#ffffff">
     </rect>
     <text x="1058.98" y="82.935" style="font-size:22px; color:#000000">
       Norges vassdrags- og energi-
@@ -111,7 +111,7 @@
     </text>
   </g>
   <g>
-    <rect x="597.82" y="174.67" width="184.25" height="129.31" fill="#ceddef" stroke="#ffffff">
+    <rect x="597.82" y="174.67" width="184.25" height="129.31" fill="#ffaeae" stroke="#ffffff">
     </rect>
     <text x="618.47" y="235.195" style="font-size:20.650000000000002px; color:#000000">
       Miljø-
@@ -124,7 +124,7 @@
     </text>
   </g>
   <g>
-    <rect x="782.07" y="174.67" width="166.27" height="129.31" fill="#ceddef" stroke="#ffffff">
+    <rect x="782.07" y="174.67" width="166.27" height="129.31" fill="#ffb1b1" stroke="#ffffff">
     </rect>
     <text x="800.9200000000001" y="235.55499999999998" style="font-size:18.85px; color:#000000">
       Arbeids- og
@@ -137,7 +137,7 @@
     </text>
   </g>
   <g>
-    <rect x="948.34" y="174.67" width="139.31" height="129.31" fill="#ceddef" stroke="#ffffff">
+    <rect x="948.34" y="174.67" width="139.31" height="129.31" fill="#ffb6b6" stroke="#ffffff">
     </rect>
     <text x="964.49" y="236.095" style="font-size:16.15px; color:#000000">
       Norges geologiske
@@ -150,7 +150,7 @@
     </text>
   </g>
   <g>
-    <rect x="1087.65" y="174.67" width="112.35" height="129.31" fill="#ceddef" stroke="#ffffff">
+    <rect x="1087.65" y="174.67" width="112.35" height="129.31" fill="#ffbaba" stroke="#ffffff">
     </rect>
     <text x="1101.1000000000001" y="244.70499999999998" style="font-size:13.450000000000001px; color:#000000">
       Tolletaten
@@ -160,7 +160,7 @@
     </text>
   </g>
   <g>
-    <rect x="597.82" y="303.98" width="107.78" height="134.79" fill="#ceddef" stroke="#ffffff">
+    <rect x="597.82" y="303.98" width="107.78" height="134.79" fill="#ffbaba" stroke="#ffffff">
     </rect>
     <text x="611.2700000000001" y="368.685" style="font-size:13.450000000000001px; color:#000000">
       Olje-
@@ -173,7 +173,7 @@
     </text>
   </g>
   <g>
-    <rect x="597.82" y="438.77" width="107.78" height="129.4" fill="#ceddef" stroke="#ffffff">
+    <rect x="597.82" y="438.77" width="107.78" height="129.4" fill="#ffbbbb" stroke="#ffffff">
     </rect>
     <text x="610.82" y="500.86999999999995" style="font-size:13px; color:#000000">
       Registerenheten i
@@ -186,7 +186,7 @@
     </text>
   </g>
   <g>
-    <rect x="597.82" y="568.16" width="107.78" height="118.61" fill="#ceddef" stroke="#ffffff">
+    <rect x="597.82" y="568.16" width="107.78" height="118.61" fill="#ffbcbc" stroke="#ffffff">
     </rect>
     <text x="609.9200000000001" y="625.045" style="font-size:12.1px; color:#000000">
       Norsk
@@ -199,7 +199,7 @@
     </text>
   </g>
   <g>
-    <rect x="597.82" y="686.78" width="107.78" height="113.22" fill="#ceddef" stroke="#ffffff">
+    <rect x="597.82" y="686.78" width="107.78" height="113.22" fill="#ffbdbd" stroke="#ffffff">
     </rect>
     <text x="609.47" y="748.05" style="font-size:11.649999999999999px; color:#000000">
       Mattilsynet
@@ -209,7 +209,7 @@
     </text>
   </g>
   <g>
-    <rect x="705.6" y="303.98" width="128.18" height="95.21" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="705.6" y="303.98" width="128.18" height="95.21" fill="#ffbdbd" stroke="#ffffff">
     </rect>
     <text x="717.25" y="356.245" style="font-size:11.649999999999999px; color:#000000">
       Geovekst
@@ -219,7 +219,7 @@
     </text>
   </g>
   <g>
-    <rect x="833.78" y="303.98" width="97.66" height="95.21" fill="#e0cfee" stroke="#ffffff">
+    <rect x="833.78" y="303.98" width="97.66" height="95.21" fill="#ffc1c1" stroke="#ffffff">
     </rect>
     <text x="843.18" y="355.345" style="font-size:9.399999999999999px; color:#000000">
       Oslo kommune
@@ -229,7 +229,7 @@
     </text>
   </g>
   <g>
-    <rect x="931.44" y="303.98" width="91.55" height="95.21" fill="#ceddef" stroke="#ffffff">
+    <rect x="931.44" y="303.98" width="91.55" height="95.21" fill="#ffc1c1" stroke="#ffffff">
     </rect>
     <text x="940.3900000000001" y="355.165" style="font-size:8.95px; color:#000000">
       Kystverket
@@ -239,7 +239,7 @@
     </text>
   </g>
   <g>
-    <rect x="1022.99" y="303.98" width="91.55" height="95.21" fill="#ceddef" stroke="#ffffff">
+    <rect x="1022.99" y="303.98" width="91.55" height="95.21" fill="#ffc1c1" stroke="#ffffff">
     </rect>
     <text x="1031.94" y="355.165" style="font-size:8.95px; color:#000000">
       Arbeidstilsynet
@@ -249,7 +249,7 @@
     </text>
   </g>
   <g>
-    <rect x="1114.55" y="303.98" width="85.45" height="95.21" fill="#ceddef" stroke="#ffffff">
+    <rect x="1114.55" y="303.98" width="85.45" height="95.21" fill="#ffc2c2" stroke="#ffffff">
     </rect>
     <text x="1123.05" y="349.88500000000005" style="font-size:8.5px; color:#000000">
       Fiskeri-
@@ -262,7 +262,7 @@
     </text>
   </g>
   <g>
-    <rect x="705.6" y="399.19" width="82.64" height="91.41" fill="#ceddef" stroke="#ffffff">
+    <rect x="705.6" y="399.19" width="82.64" height="91.41" fill="#ffc3c3" stroke="#ffffff">
     </rect>
     <text x="713.65" y="443.28499999999997" style="font-size:8.05px; color:#000000">
       Meteorologisk
@@ -275,7 +275,7 @@
     </text>
   </g>
   <g>
-    <rect x="705.6" y="490.6" width="82.64" height="84.38" fill="#ceddef" stroke="#ffffff">
+    <rect x="705.6" y="490.6" width="82.64" height="84.38" fill="#ffc4c4" stroke="#ffffff">
     </rect>
     <text x="713.2" y="535.83" style="font-size:7.6px; color:#000000">
       Artsdatabanken
@@ -285,7 +285,7 @@
     </text>
   </g>
   <g>
-    <rect x="705.6" y="574.98" width="82.64" height="77.35" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="705.6" y="574.98" width="82.64" height="77.35" fill="#ffc4c4" stroke="#ffffff">
     </rect>
     <text x="712.75" y="612.2249999999999" style="font-size:7.15px; color:#000000">
       Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning
@@ -298,7 +298,7 @@
     </text>
   </g>
   <g>
-    <rect x="705.6" y="652.33" width="82.64" height="77.35" fill="#e0cfee" stroke="#ffffff">
+    <rect x="705.6" y="652.33" width="82.64" height="77.35" fill="#ffc4c4" stroke="#ffffff">
     </rect>
     <text x="712.75" y="689.5749999999999" style="font-size:7.15px; color:#000000">
       Fredrikstad
@@ -311,7 +311,7 @@
     </text>
   </g>
   <g>
-    <rect x="705.6" y="729.68" width="82.64" height="70.32" fill="#e0cfee" stroke="#ffffff">
+    <rect x="705.6" y="729.68" width="82.64" height="70.32" fill="#ffc5c5" stroke="#ffffff">
     </rect>
     <text x="712.3000000000001" y="763.5" style="font-size:6.699999999999999px; color:#000000">
       Bergen
@@ -324,7 +324,7 @@
     </text>
   </g>
   <g>
-    <rect x="788.24" y="399.19" width="68.14" height="85.28" fill="#ceddef" stroke="#ffffff">
+    <rect x="788.24" y="399.19" width="68.14" height="85.28" fill="#ffc5c5" stroke="#ffffff">
     </rect>
     <text x="794.94" y="440.48999999999995" style="font-size:6.699999999999999px; color:#000000">
       Direktoratet for samfunnssikkerhet og
@@ -337,7 +337,7 @@
     </text>
   </g>
   <g>
-    <rect x="788.24" y="484.47" width="68.14" height="85.28" fill="#ceddef" stroke="#ffffff">
+    <rect x="788.24" y="484.47" width="68.14" height="85.28" fill="#ffc5c5" stroke="#ffffff">
     </rect>
     <text x="794.94" y="525.7700000000001" style="font-size:6.699999999999999px; color:#000000">
       Statens lånekasse for
@@ -350,7 +350,7 @@
     </text>
   </g>
   <g>
-    <rect x="788.24" y="569.75" width="68.14" height="76.75" fill="#ceddef" stroke="#ffffff">
+    <rect x="788.24" y="569.75" width="68.14" height="76.75" fill="#ffc6c6" stroke="#ffffff">
     </rect>
     <text x="794.49" y="606.875" style="font-size:6.25px; color:#000000">
       Direktoratet for høyere utdanning og
@@ -363,7 +363,7 @@
     </text>
   </g>
   <g>
-    <rect x="788.24" y="646.5" width="68.14" height="76.75" fill="#ceddef" stroke="#ffffff">
+    <rect x="788.24" y="646.5" width="68.14" height="76.75" fill="#ffc6c6" stroke="#ffffff">
     </rect>
     <text x="794.49" y="687.375" style="font-size:6.25px; color:#000000">
       Folkehelseinstituttet
@@ -373,7 +373,7 @@
     </text>
   </g>
   <g>
-    <rect x="788.24" y="723.25" width="68.14" height="76.75" fill="#ceddef" stroke="#ffffff">
+    <rect x="788.24" y="723.25" width="68.14" height="76.75" fill="#ffc6c6" stroke="#ffffff">
     </rect>
     <text x="794.49" y="764.125" style="font-size:6.25px; color:#000000">
       Riksantikvaren
@@ -383,7 +383,7 @@
     </text>
   </g>
   <g>
-    <rect x="856.39" y="399.19" width="73.63" height="71.03" fill="#e0cfee" stroke="#ffffff">
+    <rect x="856.39" y="399.19" width="73.63" height="71.03" fill="#ffc6c6" stroke="#ffffff">
     </rect>
     <text x="862.64" y="437.205" style="font-size:6.25px; color:#000000">
       Aure kommune
@@ -393,7 +393,7 @@
     </text>
   </g>
   <g>
-    <rect x="930.02" y="399.19" width="73.63" height="71.03" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="930.02" y="399.19" width="73.63" height="71.03" fill="#ffc6c6" stroke="#ffffff">
     </rect>
     <text x="936.27" y="437.205" style="font-size:6.25px; color:#000000">
       Avinor as
@@ -403,7 +403,7 @@
     </text>
   </g>
   <g>
-    <rect x="1003.65" y="399.19" width="65.45" height="71.03" fill="#ceddef" stroke="#ffffff">
+    <rect x="1003.65" y="399.19" width="65.45" height="71.03" fill="#ffc6c6" stroke="#ffffff">
     </rect>
     <text x="1009.4499999999999" y="433.545" style="font-size:5.8px; color:#000000">
       Utdannings-
@@ -416,7 +416,7 @@
     </text>
   </g>
   <g>
-    <rect x="1069.1" y="399.19" width="65.45" height="71.03" fill="#ceddef" stroke="#ffffff">
+    <rect x="1069.1" y="399.19" width="65.45" height="71.03" fill="#ffc6c6" stroke="#ffffff">
     </rect>
     <text x="1074.8999999999999" y="437.025" style="font-size:5.8px; color:#000000">
       Skatteetaten
@@ -426,7 +426,7 @@
     </text>
   </g>
   <g>
-    <rect x="1134.55" y="399.19" width="65.45" height="71.03" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1134.55" y="399.19" width="65.45" height="71.03" fill="#ffc6c6" stroke="#ffffff">
     </rect>
     <text x="1140.35" y="433.545" style="font-size:5.8px; color:#000000">
       Gjesdal
@@ -439,7 +439,7 @@
     </text>
   </g>
   <g>
-    <rect x="856.39" y="470.22" width="68.72" height="67.65" fill="#ceddef" stroke="#ffffff">
+    <rect x="856.39" y="470.22" width="68.72" height="67.65" fill="#ffc6c6" stroke="#ffffff">
     </rect>
     <text x="862.1899999999999" y="502.88500000000005" style="font-size:5.8px; color:#000000">
       Kommunal- og
@@ -452,7 +452,7 @@
     </text>
   </g>
   <g>
-    <rect x="856.39" y="537.87" width="68.72" height="59.19" fill="#ceddef" stroke="#ffffff">
+    <rect x="856.39" y="537.87" width="68.72" height="59.19" fill="#ffc7c7" stroke="#ffffff">
     </rect>
     <text x="861.74" y="566.3950000000001" style="font-size:5.35px; color:#000000">
       Olje-
@@ -465,7 +465,7 @@
     </text>
   </g>
   <g>
-    <rect x="856.39" y="597.06" width="68.72" height="50.74" fill="#ceddef" stroke="#ffffff">
+    <rect x="856.39" y="597.06" width="68.72" height="50.74" fill="#ffc8c8" stroke="#ffffff">
     </rect>
     <text x="861.29" y="624.3899999999999" style="font-size:4.9px; color:#000000">
       Arkivverket
@@ -475,7 +475,7 @@
     </text>
   </g>
   <g>
-    <rect x="856.39" y="647.79" width="68.72" height="50.74" fill="#ceddef" stroke="#ffffff">
+    <rect x="856.39" y="647.79" width="68.72" height="50.74" fill="#ffc8c8" stroke="#ffffff">
     </rect>
     <text x="861.29" y="675.1199999999999" style="font-size:4.9px; color:#000000">
       Finansdepartementet
@@ -485,7 +485,7 @@
     </text>
   </g>
   <g>
-    <rect x="856.39" y="698.53" width="68.72" height="50.74" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="856.39" y="698.53" width="68.72" height="50.74" fill="#ffc8c8" stroke="#ffffff">
     </rect>
     <text x="861.29" y="725.8599999999999" style="font-size:4.9px; color:#000000">
       Geonorge
@@ -495,7 +495,7 @@
     </text>
   </g>
   <g>
-    <rect x="856.39" y="749.26" width="68.72" height="50.74" fill="#ceddef" stroke="#ffffff">
+    <rect x="856.39" y="749.26" width="68.72" height="50.74" fill="#ffc8c8" stroke="#ffffff">
     </rect>
     <text x="861.29" y="776.5899999999999" style="font-size:4.9px; color:#000000">
       Havforskningsinstituttet
@@ -505,7 +505,7 @@
     </text>
   </g>
   <g>
-    <rect x="925.11" y="470.22" width="61.09" height="57.08" fill="#ceddef" stroke="#ffffff">
+    <rect x="925.11" y="470.22" width="61.09" height="57.08" fill="#ffc8c8" stroke="#ffffff">
     </rect>
     <text x="930.01" y="497.78000000000003" style="font-size:4.9px; color:#000000">
       Nasjonal
@@ -518,7 +518,7 @@
     </text>
   </g>
   <g>
-    <rect x="986.2" y="470.22" width="61.09" height="57.08" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="986.2" y="470.22" width="61.09" height="57.08" fill="#ffc8c8" stroke="#ffffff">
     </rect>
     <text x="991.1" y="497.78000000000003" style="font-size:4.9px; color:#000000">
       Vestland
@@ -531,7 +531,7 @@
     </text>
   </g>
   <g>
-    <rect x="1047.28" y="470.22" width="50.91" height="57.08" fill="#ceddef" stroke="#ffffff">
+    <rect x="1047.28" y="470.22" width="50.91" height="57.08" fill="#ffc9c9" stroke="#ffffff">
     </rect>
     <text x="1051.73" y="497.87000000000006" style="font-size:4.45px; color:#000000">
       Sikt - kunnskapssektorens
@@ -544,7 +544,7 @@
     </text>
   </g>
   <g>
-    <rect x="1098.19" y="470.22" width="50.91" height="57.08" fill="#ceddef" stroke="#ffffff">
+    <rect x="1098.19" y="470.22" width="50.91" height="57.08" fill="#ffc9c9" stroke="#ffffff">
     </rect>
     <text x="1102.64" y="497.87000000000006" style="font-size:4.45px; color:#000000">
       Statsforvaltaren i
@@ -557,7 +557,7 @@
     </text>
   </g>
   <g>
-    <rect x="1149.09" y="470.22" width="50.91" height="57.08" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1149.09" y="470.22" width="50.91" height="57.08" fill="#ffc9c9" stroke="#ffffff">
     </rect>
     <text x="1153.54" y="497.87000000000006" style="font-size:4.45px; color:#000000">
       Norsk institutt for
@@ -570,7 +570,7 @@
     </text>
   </g>
   <g>
-    <rect x="925.11" y="527.3" width="51.14" height="45.45" fill="#ceddef" stroke="#ffffff">
+    <rect x="925.11" y="527.3" width="51.14" height="45.45" fill="#ffc9c9" stroke="#ffffff">
     </rect>
     <text x="929.11" y="549.225" style="font-size:4px; color:#000000">
       Helse-
@@ -583,7 +583,7 @@
     </text>
   </g>
   <g>
-    <rect x="925.11" y="572.75" width="51.14" height="45.45" fill="#ceddef" stroke="#ffffff">
+    <rect x="925.11" y="572.75" width="51.14" height="45.45" fill="#ffc9c9" stroke="#ffffff">
     </rect>
     <text x="929.11" y="594.6750000000001" style="font-size:4px; color:#000000">
       Direktoratet for utviklingssamarbeid
@@ -596,7 +596,7 @@
     </text>
   </g>
   <g>
-    <rect x="925.11" y="618.2" width="51.14" height="45.45" fill="#ceddef" stroke="#ffffff">
+    <rect x="925.11" y="618.2" width="51.14" height="45.45" fill="#ffc9c9" stroke="#ffffff">
     </rect>
     <text x="929.11" y="642.5250000000001" style="font-size:4px; color:#000000">
       Forsvarsbygg
@@ -606,7 +606,7 @@
     </text>
   </g>
   <g>
-    <rect x="925.11" y="663.65" width="51.14" height="45.45" fill="#ceddef" stroke="#ffffff">
+    <rect x="925.11" y="663.65" width="51.14" height="45.45" fill="#ffc9c9" stroke="#ffffff">
     </rect>
     <text x="929.11" y="685.575" style="font-size:4px; color:#000000">
       Norsk
@@ -619,7 +619,7 @@
     </text>
   </g>
   <g>
-    <rect x="925.11" y="709.1" width="51.14" height="45.45" fill="#e0cfee" stroke="#ffffff">
+    <rect x="925.11" y="709.1" width="51.14" height="45.45" fill="#ffc9c9" stroke="#ffffff">
     </rect>
     <text x="929.11" y="731.0250000000001" style="font-size:4px; color:#000000">
       Aurland
@@ -632,7 +632,7 @@
     </text>
   </g>
   <g>
-    <rect x="925.11" y="754.55" width="51.14" height="45.45" fill="#e0cfee" stroke="#ffffff">
+    <rect x="925.11" y="754.55" width="51.14" height="45.45" fill="#ffc9c9" stroke="#ffffff">
     </rect>
     <text x="929.11" y="776.475" style="font-size:4px; color:#000000">
       Sogndal
@@ -645,7 +645,7 @@
     </text>
   </g>
   <g>
-    <rect x="976.25" y="527.3" width="52.65" height="44.15" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="976.25" y="527.3" width="52.65" height="44.15" fill="#ffc9c9" stroke="#ffffff">
     </rect>
     <text x="980.25" y="550.975" style="font-size:4px; color:#000000">
       Bane NOR SF
@@ -655,7 +655,7 @@
     </text>
   </g>
   <g>
-    <rect x="1028.9" y="527.3" width="52.65" height="44.15" fill="#ceddef" stroke="#ffffff">
+    <rect x="1028.9" y="527.3" width="52.65" height="44.15" fill="#ffc9c9" stroke="#ffffff">
     </rect>
     <text x="1032.9" y="548.575" style="font-size:4px; color:#000000">
       Politi- og
@@ -668,462 +668,462 @@
     </text>
   </g>
   <g>
-    <rect x="1081.55" y="527.3" width="39.48" height="44.15" fill="#ceddef" stroke="#ffffff">
+    <rect x="1081.55" y="527.3" width="39.48" height="44.15" fill="#ffcaca" stroke="#ffffff">
     </rect>
     <text x="1085.55" y="535.3" style="font-size:4px; color:#000000">
       [3]
     </text>
   </g>
   <g>
-    <rect x="1121.03" y="527.3" width="39.48" height="44.15" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1121.03" y="527.3" width="39.48" height="44.15" fill="#ffcaca" stroke="#ffffff">
     </rect>
     <text x="1125.03" y="535.3" style="font-size:4px; color:#000000">
       [3]
     </text>
   </g>
   <g>
-    <rect x="1160.52" y="527.3" width="39.48" height="44.15" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1160.52" y="527.3" width="39.48" height="44.15" fill="#ffcaca" stroke="#ffffff">
     </rect>
     <text x="1164.52" y="535.3" style="font-size:4px; color:#000000">
       [3]
     </text>
   </g>
   <g>
-    <rect x="976.25" y="571.45" width="44.75" height="38.96" fill="#e0cfee" stroke="#ffffff">
+    <rect x="976.25" y="571.45" width="44.75" height="38.96" fill="#ffcaca" stroke="#ffffff">
     </rect>
     <text x="980.25" y="579.45" style="font-size:4px; color:#000000">
       [3]
     </text>
   </g>
   <g>
-    <rect x="1021" y="571.45" width="44.75" height="38.96" fill="#ceddef" stroke="#ffffff">
+    <rect x="1021" y="571.45" width="44.75" height="38.96" fill="#ffcaca" stroke="#ffffff">
     </rect>
     <text x="1025" y="579.45" style="font-size:4px; color:#000000">
       [3]
     </text>
   </g>
   <g>
-    <rect x="1065.75" y="571.45" width="44.75" height="38.96" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1065.75" y="571.45" width="44.75" height="38.96" fill="#ffcaca" stroke="#ffffff">
     </rect>
     <text x="1069.75" y="579.45" style="font-size:4px; color:#000000">
       [3]
     </text>
   </g>
   <g>
-    <rect x="1110.5" y="571.45" width="44.75" height="38.96" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1110.5" y="571.45" width="44.75" height="38.96" fill="#ffcaca" stroke="#ffffff">
     </rect>
     <text x="1114.5" y="579.45" style="font-size:4px; color:#000000">
       [3]
     </text>
   </g>
   <g>
-    <rect x="1155.25" y="571.45" width="44.75" height="38.96" fill="#ceddef" stroke="#ffffff">
+    <rect x="1155.25" y="571.45" width="44.75" height="38.96" fill="#ffcaca" stroke="#ffffff">
     </rect>
     <text x="1159.25" y="579.45" style="font-size:4px; color:#000000">
       [3]
     </text>
   </g>
   <g>
-    <rect x="976.25" y="610.41" width="36.78" height="31.6" fill="#ceddef" stroke="#ffffff">
+    <rect x="976.25" y="610.41" width="36.78" height="31.6" fill="#ffcbcb" stroke="#ffffff">
     </rect>
     <text x="980.25" y="618.41" style="font-size:4px; color:#000000">
       [2]
     </text>
   </g>
   <g>
-    <rect x="976.25" y="642" width="36.78" height="31.6" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="976.25" y="642" width="36.78" height="31.6" fill="#ffcbcb" stroke="#ffffff">
     </rect>
     <text x="980.25" y="650" style="font-size:4px; color:#000000">
       [2]
     </text>
   </g>
   <g>
-    <rect x="976.25" y="673.6" width="36.78" height="31.6" fill="#ceddef" stroke="#ffffff">
+    <rect x="976.25" y="673.6" width="36.78" height="31.6" fill="#ffcbcb" stroke="#ffffff">
     </rect>
     <text x="980.25" y="681.6" style="font-size:4px; color:#000000">
       [2]
     </text>
   </g>
   <g>
-    <rect x="976.25" y="705.2" width="36.78" height="31.6" fill="#ceddef" stroke="#ffffff">
+    <rect x="976.25" y="705.2" width="36.78" height="31.6" fill="#ffcbcb" stroke="#ffffff">
     </rect>
     <text x="980.25" y="713.2" style="font-size:4px; color:#000000">
       [2]
     </text>
   </g>
   <g>
-    <rect x="976.25" y="736.8" width="36.78" height="31.6" fill="#ceddef" stroke="#ffffff">
+    <rect x="976.25" y="736.8" width="36.78" height="31.6" fill="#ffcbcb" stroke="#ffffff">
     </rect>
     <text x="980.25" y="744.8" style="font-size:4px; color:#000000">
       [2]
     </text>
   </g>
   <g>
-    <rect x="976.25" y="768.4" width="36.78" height="31.6" fill="#ceddef" stroke="#ffffff">
+    <rect x="976.25" y="768.4" width="36.78" height="31.6" fill="#ffcbcb" stroke="#ffffff">
     </rect>
     <text x="980.25" y="776.4" style="font-size:4px; color:#000000">
       [2]
     </text>
   </g>
   <g>
-    <rect x="1013.03" y="610.41" width="31.16" height="37.3" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1013.03" y="610.41" width="31.16" height="37.3" fill="#ffcbcb" stroke="#ffffff">
     </rect>
     <text x="1017.03" y="618.41" style="font-size:4px; color:#000000">
       [2]
     </text>
   </g>
   <g>
-    <rect x="1044.19" y="610.41" width="31.16" height="37.3" fill="#ceddef" stroke="#ffffff">
+    <rect x="1044.19" y="610.41" width="31.16" height="37.3" fill="#ffcbcb" stroke="#ffffff">
     </rect>
     <text x="1048.19" y="618.41" style="font-size:4px; color:#000000">
       [2]
     </text>
   </g>
   <g>
-    <rect x="1075.36" y="610.41" width="31.16" height="37.3" fill="#ceddef" stroke="#ffffff">
+    <rect x="1075.36" y="610.41" width="31.16" height="37.3" fill="#ffcbcb" stroke="#ffffff">
     </rect>
     <text x="1079.36" y="618.41" style="font-size:4px; color:#000000">
       [2]
     </text>
   </g>
   <g>
-    <rect x="1106.52" y="610.41" width="31.16" height="37.3" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1106.52" y="610.41" width="31.16" height="37.3" fill="#ffcbcb" stroke="#ffffff">
     </rect>
     <text x="1110.52" y="618.41" style="font-size:4px; color:#000000">
       [2]
     </text>
   </g>
   <g>
-    <rect x="1137.68" y="610.41" width="31.16" height="37.3" fill="#ceddef" stroke="#ffffff">
+    <rect x="1137.68" y="610.41" width="31.16" height="37.3" fill="#ffcbcb" stroke="#ffffff">
     </rect>
     <text x="1141.68" y="618.41" style="font-size:4px; color:#000000">
       [2]
     </text>
   </g>
   <g>
-    <rect x="1168.84" y="610.41" width="31.16" height="37.3" fill="#ceddef" stroke="#ffffff">
+    <rect x="1168.84" y="610.41" width="31.16" height="37.3" fill="#ffcbcb" stroke="#ffffff">
     </rect>
     <text x="1172.84" y="618.41" style="font-size:4px; color:#000000">
       [2]
     </text>
   </g>
   <g>
-    <rect x="1013.03" y="647.7" width="30.53" height="38.07" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1013.03" y="647.7" width="30.53" height="38.07" fill="#ffcbcb" stroke="#ffffff">
     </rect>
     <text x="1017.03" y="655.7" style="font-size:4px; color:#000000">
       [2]
     </text>
   </g>
   <g>
-    <rect x="1013.03" y="685.78" width="30.53" height="38.07" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1013.03" y="685.78" width="30.53" height="38.07" fill="#ffcbcb" stroke="#ffffff">
     </rect>
     <text x="1017.03" y="693.78" style="font-size:4px; color:#000000">
       [2]
     </text>
   </g>
   <g>
-    <rect x="1013.03" y="723.85" width="30.53" height="38.07" fill="#ceddef" stroke="#ffffff">
+    <rect x="1013.03" y="723.85" width="30.53" height="38.07" fill="#ffcbcb" stroke="#ffffff">
     </rect>
     <text x="1017.03" y="731.85" style="font-size:4px; color:#000000">
       [2]
     </text>
   </g>
   <g>
-    <rect x="1013.03" y="761.93" width="30.53" height="19.04" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1013.03" y="761.93" width="30.53" height="19.04" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1017.03" y="769.93" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1013.03" y="780.96" width="30.53" height="19.04" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1013.03" y="780.96" width="30.53" height="19.04" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1017.03" y="788.96" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1043.56" y="647.7" width="22.89" height="25.38" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1043.56" y="647.7" width="22.89" height="25.38" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1047.56" y="655.7" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1043.56" y="673.09" width="22.89" height="25.38" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1043.56" y="673.09" width="22.89" height="25.38" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1047.56" y="681.09" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1043.56" y="698.47" width="22.89" height="25.38" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1043.56" y="698.47" width="22.89" height="25.38" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1047.56" y="706.47" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1043.56" y="723.85" width="22.89" height="25.38" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1043.56" y="723.85" width="22.89" height="25.38" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1047.56" y="731.85" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1043.56" y="749.23" width="22.89" height="25.38" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1043.56" y="749.23" width="22.89" height="25.38" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1047.56" y="757.23" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1043.56" y="774.62" width="22.89" height="25.38" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1043.56" y="774.62" width="22.89" height="25.38" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1047.56" y="782.62" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1066.45" y="647.7" width="22.26" height="26.11" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1066.45" y="647.7" width="22.26" height="26.11" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1070.45" y="655.7" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1088.71" y="647.7" width="22.26" height="26.11" fill="#ceddef" stroke="#ffffff">
+    <rect x="1088.71" y="647.7" width="22.26" height="26.11" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1092.71" y="655.7" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1110.97" y="647.7" width="22.26" height="26.11" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1110.97" y="647.7" width="22.26" height="26.11" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1114.97" y="655.7" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1133.23" y="647.7" width="22.26" height="26.11" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1133.23" y="647.7" width="22.26" height="26.11" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1137.23" y="655.7" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1155.48" y="647.7" width="22.26" height="26.11" fill="#ceddef" stroke="#ffffff">
+    <rect x="1155.48" y="647.7" width="22.26" height="26.11" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1159.48" y="655.7" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1177.74" y="647.7" width="22.26" height="26.11" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1177.74" y="647.7" width="22.26" height="26.11" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1181.74" y="655.7" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1066.45" y="673.81" width="23.03" height="25.24" fill="#ceddef" stroke="#ffffff">
+    <rect x="1066.45" y="673.81" width="23.03" height="25.24" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1070.45" y="681.81" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1066.45" y="699.05" width="23.03" height="25.24" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1066.45" y="699.05" width="23.03" height="25.24" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1070.45" y="707.05" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1066.45" y="724.29" width="23.03" height="25.24" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1066.45" y="724.29" width="23.03" height="25.24" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1070.45" y="732.29" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1066.45" y="749.52" width="23.03" height="25.24" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1066.45" y="749.52" width="23.03" height="25.24" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1070.45" y="757.52" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1066.45" y="774.76" width="23.03" height="25.24" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1066.45" y="774.76" width="23.03" height="25.24" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1070.45" y="782.76" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1089.48" y="673.81" width="22.1" height="26.29" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1089.48" y="673.81" width="22.1" height="26.29" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1093.48" y="681.81" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1111.58" y="673.81" width="22.1" height="26.29" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1111.58" y="673.81" width="22.1" height="26.29" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1115.58" y="681.81" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1133.69" y="673.81" width="22.1" height="26.29" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1133.69" y="673.81" width="22.1" height="26.29" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1137.69" y="681.81" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1155.79" y="673.81" width="22.1" height="26.29" fill="#ceddef" stroke="#ffffff">
+    <rect x="1155.79" y="673.81" width="22.1" height="26.29" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1159.79" y="681.81" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1177.9" y="673.81" width="22.1" height="26.29" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1177.9" y="673.81" width="22.1" height="26.29" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1181.9" y="681.81" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1089.48" y="700.1" width="23.27" height="24.97" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1089.48" y="700.1" width="23.27" height="24.97" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1093.48" y="708.1" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1089.48" y="725.08" width="23.27" height="24.97" fill="#ceddef" stroke="#ffffff">
+    <rect x="1089.48" y="725.08" width="23.27" height="24.97" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1093.48" y="733.08" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1089.48" y="750.05" width="23.27" height="24.97" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1089.48" y="750.05" width="23.27" height="24.97" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1093.48" y="758.05" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1089.48" y="775.03" width="23.27" height="24.97" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1089.48" y="775.03" width="23.27" height="24.97" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1093.48" y="783.03" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1112.75" y="700.1" width="21.81" height="26.64" fill="#e0cfee" stroke="#ffffff">
+    <rect x="1112.75" y="700.1" width="21.81" height="26.64" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1116.75" y="708.1" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1134.56" y="700.1" width="21.81" height="26.64" fill="#ceddef" stroke="#ffffff">
+    <rect x="1134.56" y="700.1" width="21.81" height="26.64" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1138.56" y="708.1" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1156.37" y="700.1" width="21.81" height="26.64" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1156.37" y="700.1" width="21.81" height="26.64" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1160.37" y="708.1" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1178.19" y="700.1" width="21.81" height="26.64" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1178.19" y="700.1" width="21.81" height="26.64" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1182.19" y="708.1" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1112.75" y="726.74" width="23.8" height="24.42" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1112.75" y="726.74" width="23.8" height="24.42" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1116.75" y="734.74" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1112.75" y="751.16" width="23.8" height="24.42" fill="#ceddef" stroke="#ffffff">
+    <rect x="1112.75" y="751.16" width="23.8" height="24.42" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1116.75" y="759.16" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1112.75" y="775.58" width="23.8" height="24.42" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1112.75" y="775.58" width="23.8" height="24.42" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1116.75" y="783.58" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1136.54" y="726.74" width="21.15" height="27.47" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1136.54" y="726.74" width="21.15" height="27.47" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1140.54" y="734.74" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1157.69" y="726.74" width="21.15" height="27.47" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1157.69" y="726.74" width="21.15" height="27.47" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1161.69" y="734.74" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1178.85" y="726.74" width="21.15" height="27.47" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1178.85" y="726.74" width="21.15" height="27.47" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1182.85" y="734.74" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1136.54" y="754.21" width="25.38" height="22.89" fill="#ceddef" stroke="#ffffff">
+    <rect x="1136.54" y="754.21" width="25.38" height="22.89" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1140.54" y="762.21" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1136.54" y="777.11" width="25.38" height="22.89" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1136.54" y="777.11" width="25.38" height="22.89" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1140.54" y="785.11" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1161.93" y="754.21" width="19.04" height="30.52" fill="#ceddef" stroke="#ffffff">
+    <rect x="1161.93" y="754.21" width="19.04" height="30.52" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1165.93" y="762.21" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1180.96" y="754.21" width="19.04" height="30.52" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1180.96" y="754.21" width="19.04" height="30.52" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1184.96" y="762.21" style="font-size:4px; color:#000000">
       [1]
     </text>
   </g>
   <g>
-    <rect x="1161.93" y="784.74" width="38.07" height="15.26" fill="#f1dcd0" stroke="#ffffff">
+    <rect x="1161.93" y="784.74" width="38.07" height="15.26" fill="#ffcccc" stroke="#ffffff">
     </rect>
     <text x="1165.93" y="792.74" style="font-size:4px; color:#000000">
       [1]

@@ -34,8 +34,14 @@ orgs.forEach((o) => {
     o.datasets.length > maxDatasets ? o.datasets.length : maxDatasets
 })
 
-console.log('max datasets', maxDatasets, 'minDatasets', minDatasets)
-console.log('map 0.33', map(133, 100, 200))
+console.log(
+  '\n--------------------- FDK TREEMAPS\n\n',
+  'max datasets',
+  maxDatasets,
+  'minDatasets',
+  minDatasets,
+  '\n',
+)
 
 //// Create data set for simple treemap
 
@@ -84,8 +90,6 @@ treeData.data.forEach((o) => {
   else if (o.org.orgPath.startsWith('/STAT')) treeHierachy.data[STAT].push(o)
   else treeHierachy.data[ANNET].push(o)
 })
-
-treeHierachy.data.forEach((cat) => console.log(cat.length))
 
 createTreemapHierarchical(treeHierachy, 'output/FDK-Hierarkisk.svg', w, h)
 
