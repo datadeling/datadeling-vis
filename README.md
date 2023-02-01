@@ -27,7 +27,7 @@ Scripts
 
 `main.js` viser hvordan data om datakatalogen leses og struktureres, og hvordan Treemaps genereres. Man kan bruke dette scriptet som et utgangspunkt og tilrettelegge for nye visualiseringer basert på en annen kategorisering.
 
-`read_brreg.js` viser hvordan man kan lese XLSX filer med oversikt over offentlige virksomheter fra Brønnøysundregisteret.
+`read_brreg.js` viser hvordan man kan lese XLSX filer  fra Brønnøysundregisteret med oversikt over offentlige virksomheter.
 
 Videre arbeid
 ---
