@@ -1,7 +1,10 @@
 import fs from 'fs'
-import { createTreemap, createTreemapHierarchical } from './TreemapGenerator.js'
-import { ColorTool } from './ColorTool.js'
-import { ObjectSet } from './ObjectSet.js'
+import {
+  createTreemap,
+  createTreemapHierarchical,
+} from './lib/TreemapGenerator.js'
+import { ColorTool } from './lib/ColorTool.js'
+import { ObjectSet } from './lib/ObjectSet.js'
 
 // config
 const filename = '../data/fdk_api_short.json'

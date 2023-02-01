@@ -3,6 +3,8 @@ import fs from 'fs'
 
 let catalog = {}
 
+// this XLSX file is not stored in the repo due to size constraints
+// download current version from https://data.brreg.no/enhetsregisteret/oppslag/enheter
 let filename = './offentligsektor2022-12-01-05.00.07.724.xlsx'
 
 let data = fs.readFileSync(filename)
@@ -36,9 +38,7 @@ function parseSheet(sheet) {
       if (el.level > last.level) {
         parent.push(last.Orgnr)
       } else if (el.level < last.level) {
-        // console.log(parent)
         parent.pop()
-        // console.log('pop', parent)
       }
     }
 
