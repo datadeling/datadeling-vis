@@ -9,8 +9,8 @@ import { parseFDK } from './lib/FDKData.js'
 const DEBUG = false
 const filename = '../data/fdk_api_short.json'
 const colorMap = { stat: '#ceddef', kommune: '#e0cfee', annet: '#f1dcd0' }
-const w = 1200,
-  h = 800
+const w = 1200
+const h = 800
 
 // Data dump of API: https://kodeverkstad.no/api/fdk_api.php?short
 const fdk = parseFDK(filename)

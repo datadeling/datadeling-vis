@@ -1,3 +1,7 @@
+// Simple class to index sets of objects with an 'id' field - i.e. {id:'SOME_ID'}
+// Used in FDKData to build a catalog of unique entities and populate them with a list
+// of datasets they publish.
+
 export class ObjectSet {
   constructor() {
     this.items = []
