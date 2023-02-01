@@ -32,4 +32,8 @@ export class ColorTool {
 
     return this.hex(rgb1[0], rgb1[1], rgb1[2])
   }
+
+  map(val, min, max) {
+    return (val - min) / (max - min)
+  }
 }

@@ -1,52 +1,37 @@
-import fs from 'fs'
-import { createTreemap, createTreemapHierarchical } from './TreemapGenerator.js'
-import { ColorTool } from './ColorTool.js'
-import { ObjectSet } from './ObjectSet.js'
+import {
+  createTreemap,
+  createTreemapHierarchical,
+} from './lib/TreemapGenerator.js'
+import { ColorTool } from './lib/ColorTool.js'
+import { parseFDK } from './lib/FDKData.js'
 
 // config
+const DEBUG = false
 const filename = '../data/fdk_api_short.json'
 const colorMap = { stat: '#ceddef', kommune: '#e0cfee', annet: '#f1dcd0' }
-const w = 1200,
-  h = 800
-
-const DEBUG = false
-
-// data structures
-const datasets = new ObjectSet()
-const orgs = new ObjectSet()
-const keywords = new ObjectSet()
-const errors = []
+const w = 1200
+const h = 800
 
 // Data dump of API: https://kodeverkstad.no/api/fdk_api.php?short
-parseFDK(filename)
+const fdk = parseFDK(filename)
 
 const color = new ColorTool()
 let hex = color.hex(255, 0, 128)
 const rgb = color.rgb(color.hex(255, 0, 128))
 
-let maxDatasets = 0
-let minDatasets = 10000
-
-orgs.forEach((o) => {
-  minDatasets =
-    o.datasets.length < minDatasets ? o.datasets.length : minDatasets
-  maxDatasets =
-    o.datasets.length > maxDatasets ? o.datasets.length : maxDatasets
-})
-
 console.log(
   '\n--------------------- FDK TREEMAPS\n\n',
   'max datasets',
-  maxDatasets,
+  fdk.maxDatasets,
   'minDatasets',
-  minDatasets,
+  fdk.minDatasets,
   '\n',
 )
 
 //// Create data set for simple treemap
 
 const treeData = { data: [], width: w, height: h }
-orgs.forEach((o) => {
+fdk.orgs.forEach((o) => {
   treeData.data.push({
     org: o,
     value: o.datasets.length,
@@ -55,7 +40,7 @@ orgs.forEach((o) => {
       color.lerp(
         'ffcccc',
         'ff0000',
-        map(o.datasets.length, minDatasets, maxDatasets),
+        map(o.datasets.length, fdk.minDatasets, fdk.maxDatasets),
       ),
     label: o.prefLabel,
   })
@@ -92,72 +77,3 @@ treeData.data.forEach((o) => {
 })
 
 createTreemapHierarchical(treeHierachy, 'output/FDK-Hierarkisk.svg', w, h)
-
-//////////////////////////
-//// Parse FDK dataset
-
-function parseFDK(filename) {
-  let rawdata = fs.readFileSync(filename)
-  let data = JSON.parse(rawdata)
-
-  data.forEach((el) => {
-    datasets.add(el)
-
-    if (el.publisher && !el.publisher.id) el.publisher.id = el.publisher.name
-    if (!el.publisher || !el.publisher.id) {
-      errors.push(el)
-    } else {
-      let org = orgs.get(el.publisher.id)
-      if (!org) {
-        org = {
-          id: el.publisher.id,
-          prefLabel: el.publisher.prefLabel.nb,
-          orgPath: el.publisher.orgPath,
-          datasets: [],
-        }
-        orgs.add(org)
-      }
-
-      org.datasets.push(el)
-    }
-
-    if (el.keyword) {
-      el.keyword.forEach((word) => {
-        let str = word.nb
-        if (!str) str = word.no
-        if (!str) str = word[Object.keys(word)[0]]
-
-        str = str.toLowerCase().trim()
-        let keyword = keywords.get(str)
-
-        if (!keyword) {
-          keyword = { id: str, datasets: [], dataset: el.id }
-          keywords.add(keyword)
-          keyword.datasets.push(el)
-        } else keyword.datasets.push(el)
-      })
-    }
-  })
-
-  if (DEBUG)
-    console.log(
-      '--------------------------\n',
-      datasets.size() + ' datasets',
-      orgs.size() + ' orgs',
-
-      keywords.size() + ' keywords',
-      '\n\n',
-    )
-
-  orgs.items.sort((a, b) => {
-    return b.datasets.length - a.datasets.length
-  })
-
-  keywords.items.sort((a, b) => {
-    return b.datasets.length - a.datasets.length
-  })
-}
-
-function map(val, min, max) {
-  return (val - min) / (max - min)
-}

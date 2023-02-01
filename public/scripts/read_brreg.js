@@ -3,6 +3,8 @@ import fs from 'fs'
 
 let catalog = {}
 
+// this XLSX file is not stored in the repo due to size constraints
+// download current version from https://data.brreg.no/enhetsregisteret/oppslag/enheter
 let filename = './offentligsektor2022-12-01-05.00.07.724.xlsx'
 
 let data = fs.readFileSync(filename)
@@ -13,10 +15,21 @@ console.log(sheets)
 sheets.forEach((sheet) => {
   parseSheet(workbook.Sheets[sheet])
 
-  console.log(sheet, Object.keys(catalog).length, 'datasets')
+  console.log(sheet, `${Object.keys(catalog).length} organizations`)
 })
 
-console.log(catalog)
+let catalogKeys = Object.keys(catalog)
+let cnt = 0
+catalogKeys.forEach((key) => {
+  const org = catalog[key]
+
+  if (org['Organisasjonsform'] === 'ORGL') {
+    cnt++
+    if (cnt < 10) console.log(org)
+  }
+})
+
+console.log(`${cnt} ORGL`)
 
 function parseSheet(sheet) {
   let json = XLSX.utils.sheet_to_json(sheet)
@@ -36,9 +49,7 @@ function parseSheet(sheet) {
       if (el.level > last.level) {
         parent.push(last.Orgnr)
       } else if (el.level < last.level) {
-        // console.log(parent)
         parent.pop()
-        // console.log('pop', parent)
       }
     }
 
