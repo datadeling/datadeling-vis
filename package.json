@@ -1,0 +1,10 @@
+{
+  "name": "datadeling-vis",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "treemap-squarify": "^1.0.1"
+  }
+}

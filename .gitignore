@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_store
+.DS_store?
+
+*.local
+*.log
+.env*
+# Visual Studio cache/options directory
+.vs/
+*.xlsx
+*.xls
+public/scripts/tmp.txt
+public/scripts/test*.svg
