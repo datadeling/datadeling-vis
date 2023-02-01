@@ -9,10 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "file-loader": "^6.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "svg-parser": "^2.0.4",
     "treemap-squarify": "^1.0.1",
+    "vite-plugin-svgr": "^2.4.0",
     "xlsx": "https://cdn.sheetjs.com/xlsx-0.19.1/xlsx-0.19.1.tgz"
   },
   "devDependencies": {

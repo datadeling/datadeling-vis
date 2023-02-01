@@ -1,0 +1,734 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="800">
+  <g>
+    <rect x="0" y="0" width="345.76" height="473.95" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="0" y="0" style="font-size:4px; color:Kartverket">
+    </g>
+  </g>
+  <g>
+    <rect x="0" y="473.95" width="345.76" height="326.05" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="0" y="473.95" style="font-size:4px; color:Stavanger kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="345.76" y="0" width="252.06" height="248.99" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="345.76" y="0" style="font-size:4px; color:Landbruksdirektoratet">
+    </g>
+  </g>
+  <g>
+    <rect x="345.76" y="248.99" width="252.06" height="195.97" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="345.76" y="248.99" style="font-size:4px; color:Statens vegvesen">
+    </g>
+  </g>
+  <g>
+    <rect x="345.76" y="444.96" width="252.06" height="186.74" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="345.76" y="444.96" style="font-size:4px; color:Norsk institutt for bioøkonomi">
+    </g>
+  </g>
+  <g>
+    <rect x="345.76" y="631.7" width="252.06" height="168.3" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="345.76" y="631.7" style="font-size:4px; color:Nasjonalbiblioteket">
+    </g>
+  </g>
+  <g>
+    <rect x="597.82" y="0" width="232.89" height="174.67" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="597.82" y="0" style="font-size:4px; color:Statistisk sentralbyrå">
+    </g>
+  </g>
+  <g>
+    <rect x="830.71" y="0" width="206.27" height="174.67" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="830.71" y="0" style="font-size:4px; color:Digitaliseringsdirektoratet">
+    </g>
+  </g>
+  <g>
+    <rect x="1036.98" y="0" width="163.02" height="174.67" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1036.98" y="0" style="font-size:4px; color:Norges vassdrags- og energidirektorat (nve)">
+    </g>
+  </g>
+  <g>
+    <rect x="597.82" y="174.67" width="184.25" height="129.31" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="597.82" y="174.67" style="font-size:4px; color:Miljødirektoratet">
+    </g>
+  </g>
+  <g>
+    <rect x="782.07" y="174.67" width="166.27" height="129.31" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="782.07" y="174.67" style="font-size:4px; color:Arbeids- og velferdsetaten">
+    </g>
+  </g>
+  <g>
+    <rect x="948.34" y="174.67" width="139.31" height="129.31" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="948.34" y="174.67" style="font-size:4px; color:Norges geologiske undersøkelse">
+    </g>
+  </g>
+  <g>
+    <rect x="1087.65" y="174.67" width="112.35" height="129.31" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1087.65" y="174.67" style="font-size:4px; color:Tolletaten">
+    </g>
+  </g>
+  <g>
+    <rect x="597.82" y="303.98" width="107.78" height="134.79" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="597.82" y="303.98" style="font-size:4px; color:Oljedirektoratet">
+    </g>
+  </g>
+  <g>
+    <rect x="597.82" y="438.77" width="107.78" height="129.4" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="597.82" y="438.77" style="font-size:4px; color:Registerenheten i brønnøysund">
+    </g>
+  </g>
+  <g>
+    <rect x="597.82" y="568.16" width="107.78" height="118.61" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="597.82" y="568.16" style="font-size:4px; color:Norsk Polarinstitutt">
+    </g>
+  </g>
+  <g>
+    <rect x="597.82" y="686.78" width="107.78" height="113.22" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="597.82" y="686.78" style="font-size:4px; color:Mattilsynet">
+    </g>
+  </g>
+  <g>
+    <rect x="705.6" y="303.98" width="128.18" height="95.21" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="705.6" y="303.98" style="font-size:4px; color:Geovekst">
+    </g>
+  </g>
+  <g>
+    <rect x="833.78" y="303.98" width="97.66" height="95.21" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="833.78" y="303.98" style="font-size:4px; color:Oslo kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="931.44" y="303.98" width="91.55" height="95.21" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="931.44" y="303.98" style="font-size:4px; color:Kystverket">
+    </g>
+  </g>
+  <g>
+    <rect x="1022.99" y="303.98" width="91.55" height="95.21" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1022.99" y="303.98" style="font-size:4px; color:Arbeidstilsynet">
+    </g>
+  </g>
+  <g>
+    <rect x="1114.55" y="303.98" width="85.45" height="95.21" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1114.55" y="303.98" style="font-size:4px; color:Fiskeridirektoratet">
+    </g>
+  </g>
+  <g>
+    <rect x="705.6" y="399.19" width="82.64" height="91.41" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="705.6" y="399.19" style="font-size:4px; color:Meteorologisk institutt">
+    </g>
+  </g>
+  <g>
+    <rect x="705.6" y="490.6" width="82.64" height="84.38" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="705.6" y="490.6" style="font-size:4px; color:Artsdatabanken">
+    </g>
+  </g>
+  <g>
+    <rect x="705.6" y="574.98" width="82.64" height="77.35" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="705.6" y="574.98" style="font-size:4px; color:Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning (diku)">
+    </g>
+  </g>
+  <g>
+    <rect x="705.6" y="652.33" width="82.64" height="77.35" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="705.6" y="652.33" style="font-size:4px; color:Fredrikstad kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="705.6" y="729.68" width="82.64" height="70.32" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="705.6" y="729.68" style="font-size:4px; color:Bergen kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="788.24" y="399.19" width="68.14" height="85.28" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="788.24" y="399.19" style="font-size:4px; color:Direktoratet for samfunnssikkerhet og beredskap">
+    </g>
+  </g>
+  <g>
+    <rect x="788.24" y="484.47" width="68.14" height="85.28" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="788.24" y="484.47" style="font-size:4px; color:Statens lånekasse for utdanning">
+    </g>
+  </g>
+  <g>
+    <rect x="788.24" y="569.75" width="68.14" height="76.75" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="788.24" y="569.75" style="font-size:4px; color:Direktoratet for høyere utdanning og kompetanse">
+    </g>
+  </g>
+  <g>
+    <rect x="788.24" y="646.5" width="68.14" height="76.75" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="788.24" y="646.5" style="font-size:4px; color:Folkehelseinstituttet">
+    </g>
+  </g>
+  <g>
+    <rect x="788.24" y="723.25" width="68.14" height="76.75" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="788.24" y="723.25" style="font-size:4px; color:Riksantikvaren">
+    </g>
+  </g>
+  <g>
+    <rect x="856.39" y="399.19" width="73.63" height="71.03" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="856.39" y="399.19" style="font-size:4px; color:Aure kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="930.02" y="399.19" width="73.63" height="71.03" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="930.02" y="399.19" style="font-size:4px; color:Avinor as">
+    </g>
+  </g>
+  <g>
+    <rect x="1003.65" y="399.19" width="65.45" height="71.03" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1003.65" y="399.19" style="font-size:4px; color:Utdanningsdirektoratet">
+    </g>
+  </g>
+  <g>
+    <rect x="1069.1" y="399.19" width="65.45" height="71.03" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1069.1" y="399.19" style="font-size:4px; color:Skatteetaten">
+    </g>
+  </g>
+  <g>
+    <rect x="1134.55" y="399.19" width="65.45" height="71.03" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1134.55" y="399.19" style="font-size:4px; color:Gjesdal kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="856.39" y="470.22" width="68.72" height="67.65" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="856.39" y="470.22" style="font-size:4px; color:Kommunal- og distriktsdepartementet">
+    </g>
+  </g>
+  <g>
+    <rect x="856.39" y="537.87" width="68.72" height="59.19" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="856.39" y="537.87" style="font-size:4px; color:Olje- og energidepartementet">
+    </g>
+  </g>
+  <g>
+    <rect x="856.39" y="597.06" width="68.72" height="50.74" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="856.39" y="597.06" style="font-size:4px; color:Arkivverket">
+    </g>
+  </g>
+  <g>
+    <rect x="856.39" y="647.79" width="68.72" height="50.74" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="856.39" y="647.79" style="font-size:4px; color:Finansdepartementet">
+    </g>
+  </g>
+  <g>
+    <rect x="856.39" y="698.53" width="68.72" height="50.74" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="856.39" y="698.53" style="font-size:4px; color:Geonorge">
+    </g>
+  </g>
+  <g>
+    <rect x="856.39" y="749.26" width="68.72" height="50.74" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="856.39" y="749.26" style="font-size:4px; color:Havforskningsinstituttet">
+    </g>
+  </g>
+  <g>
+    <rect x="925.11" y="470.22" width="61.09" height="57.08" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="925.11" y="470.22" style="font-size:4px; color:Nasjonal kommunikasjonsmyndighet">
+    </g>
+  </g>
+  <g>
+    <rect x="986.2" y="470.22" width="61.09" height="57.08" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="986.2" y="470.22" style="font-size:4px; color:Vestland fylkeskommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1047.28" y="470.22" width="50.91" height="57.08" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1047.28" y="470.22" style="font-size:4px; color:Sikt - kunnskapssektorens tjenesteleverandør">
+    </g>
+  </g>
+  <g>
+    <rect x="1098.19" y="470.22" width="50.91" height="57.08" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1098.19" y="470.22" style="font-size:4px; color:Statsforvaltaren i vestland">
+    </g>
+  </g>
+  <g>
+    <rect x="1149.09" y="470.22" width="50.91" height="57.08" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1149.09" y="470.22" style="font-size:4px; color:Norsk institutt for naturforskning">
+    </g>
+  </g>
+  <g>
+    <rect x="925.11" y="527.3" width="51.14" height="45.45" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="925.11" y="527.3" style="font-size:4px; color:Helsedirektoratet">
+    </g>
+  </g>
+  <g>
+    <rect x="925.11" y="572.75" width="51.14" height="45.45" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="925.11" y="572.75" style="font-size:4px; color:Direktoratet for utviklingssamarbeid (norad)">
+    </g>
+  </g>
+  <g>
+    <rect x="925.11" y="618.2" width="51.14" height="45.45" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="925.11" y="618.2" style="font-size:4px; color:Forsvarsbygg">
+    </g>
+  </g>
+  <g>
+    <rect x="925.11" y="663.65" width="51.14" height="45.45" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="925.11" y="663.65" style="font-size:4px; color:Norsk kulturråd">
+    </g>
+  </g>
+  <g>
+    <rect x="925.11" y="709.1" width="51.14" height="45.45" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="925.11" y="709.1" style="font-size:4px; color:Aurland kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="925.11" y="754.55" width="51.14" height="45.45" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="925.11" y="754.55" style="font-size:4px; color:Sogndal kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="976.25" y="527.3" width="52.65" height="44.15" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="976.25" y="527.3" style="font-size:4px; color:Bane NOR SF">
+    </g>
+  </g>
+  <g>
+    <rect x="1028.9" y="527.3" width="52.65" height="44.15" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1028.9" y="527.3" style="font-size:4px; color:Politi- og lensmannsetaten">
+    </g>
+  </g>
+  <g>
+    <rect x="1081.55" y="527.3" width="39.48" height="44.15" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1081.55" y="527.3" style="font-size:4px; color:Statens strålevern">
+    </g>
+  </g>
+  <g>
+    <rect x="1121.03" y="527.3" width="39.48" height="44.15" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1121.03" y="527.3" style="font-size:4px; color:Trondheim kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1160.52" y="527.3" width="39.48" height="44.15" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1160.52" y="527.3" style="font-size:4px; color:Steinkjer kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="976.25" y="571.45" width="44.75" height="38.96" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="976.25" y="571.45" style="font-size:4px; color:Bjørnafjorden kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1021" y="571.45" width="44.75" height="38.96" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1021" y="571.45" style="font-size:4px; color:Kompetansesenter for distriktsutvikling">
+    </g>
+  </g>
+  <g>
+    <rect x="1065.75" y="571.45" width="44.75" height="38.96" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1065.75" y="571.45" style="font-size:4px; color:Utdanningsdirektoratet">
+    </g>
+  </g>
+  <g>
+    <rect x="1110.5" y="571.45" width="44.75" height="38.96" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1110.5" y="571.45" style="font-size:4px; color:Kommunene">
+    </g>
+  </g>
+  <g>
+    <rect x="1155.25" y="571.45" width="44.75" height="38.96" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1155.25" y="571.45" style="font-size:4px; color:Statsforvalteren">
+    </g>
+  </g>
+  <g>
+    <rect x="976.25" y="610.41" width="36.78" height="31.6" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="976.25" y="610.41" style="font-size:4px; color:Barne-, ungdoms- og familiedirektoratet">
+    </g>
+  </g>
+  <g>
+    <rect x="976.25" y="642" width="36.78" height="31.6" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="976.25" y="642" style="font-size:4px; color:Entur as">
+    </g>
+  </g>
+  <g>
+    <rect x="976.25" y="673.6" width="36.78" height="31.6" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="976.25" y="673.6" style="font-size:4px; color:Luftfartstilsynet">
+    </g>
+  </g>
+  <g>
+    <rect x="976.25" y="705.2" width="36.78" height="31.6" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="976.25" y="705.2" style="font-size:4px; color:Universitetet i bergen">
+    </g>
+  </g>
+  <g>
+    <rect x="976.25" y="736.8" width="36.78" height="31.6" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="976.25" y="736.8" style="font-size:4px; color:Lotteri-  og stiftelsestilsynet">
+    </g>
+  </g>
+  <g>
+    <rect x="976.25" y="768.4" width="36.78" height="31.6" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="976.25" y="768.4" style="font-size:4px; color:Norsk romsenter">
+    </g>
+  </g>
+  <g>
+    <rect x="1013.03" y="610.41" width="31.16" height="37.3" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1013.03" y="610.41" style="font-size:4px; color:Innovasjon norge">
+    </g>
+  </g>
+  <g>
+    <rect x="1044.19" y="610.41" width="31.16" height="37.3" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1044.19" y="610.41" style="font-size:4px; color:Direktoratet for forvaltning og økonomistyring">
+    </g>
+  </g>
+  <g>
+    <rect x="1075.36" y="610.41" width="31.16" height="37.3" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1075.36" y="610.41" style="font-size:4px; color:Norges forskningsråd">
+    </g>
+  </g>
+  <g>
+    <rect x="1106.52" y="610.41" width="31.16" height="37.3" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1106.52" y="610.41" style="font-size:4px; color:Ålesund kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1137.68" y="610.41" width="31.16" height="37.3" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1137.68" y="610.41" style="font-size:4px; color:Kultur- og likestillingsdepartementet">
+    </g>
+  </g>
+  <g>
+    <rect x="1168.84" y="610.41" width="31.16" height="37.3" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1168.84" y="610.41" style="font-size:4px; color:Integrerings- og mangfoldsdirektoratet">
+    </g>
+  </g>
+  <g>
+    <rect x="1013.03" y="647.7" width="30.53" height="38.07" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1013.03" y="647.7" style="font-size:4px; color:Molde kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1013.03" y="685.78" width="30.53" height="38.07" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1013.03" y="685.78" style="font-size:4px; color:Næringslivets sikkerhetsorganisasjon">
+    </g>
+  </g>
+  <g>
+    <rect x="1013.03" y="723.85" width="30.53" height="38.07" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1013.03" y="723.85" style="font-size:4px; color:Forsvaret">
+    </g>
+  </g>
+  <g>
+    <rect x="1013.03" y="761.93" width="30.53" height="19.04" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1013.03" y="761.93" style="font-size:4px; color:Horten kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1013.03" y="780.96" width="30.53" height="19.04" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1013.03" y="780.96" style="font-size:4px; color:Lillehammer kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1043.56" y="647.7" width="22.89" height="25.38" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1043.56" y="647.7" style="font-size:4px; color:Kulturit ans">
+    </g>
+  </g>
+  <g>
+    <rect x="1043.56" y="673.09" width="22.89" height="25.38" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1043.56" y="673.09" style="font-size:4px; color:Randaberg kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1043.56" y="698.47" width="22.89" height="25.38" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1043.56" y="698.47" style="font-size:4px; color:Direktoratet for naturforvaltning">
+    </g>
+  </g>
+  <g>
+    <rect x="1043.56" y="723.85" width="22.89" height="25.38" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1043.56" y="723.85" style="font-size:4px; color:Lørenskog kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1043.56" y="749.23" width="22.89" height="25.38" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1043.56" y="749.23" style="font-size:4px; color:Høgskolen i bergen">
+    </g>
+  </g>
+  <g>
+    <rect x="1043.56" y="774.62" width="22.89" height="25.38" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1043.56" y="774.62" style="font-size:4px; color:Norsk rikskringkasting as">
+    </g>
+  </g>
+  <g>
+    <rect x="1066.45" y="647.7" width="22.26" height="26.11" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1066.45" y="647.7" style="font-size:4px; color:Viken fylkeskommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1088.71" y="647.7" width="22.26" height="26.11" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1088.71" y="647.7" style="font-size:4px; color:Statens legemiddelverk">
+    </g>
+  </g>
+  <g>
+    <rect x="1110.97" y="647.7" width="22.26" height="26.11" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1110.97" y="647.7" style="font-size:4px; color:Drammen kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1133.23" y="647.7" width="22.26" height="26.11" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1133.23" y="647.7" style="font-size:4px; color:Indre østfold kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1155.48" y="647.7" width="22.26" height="26.11" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1155.48" y="647.7" style="font-size:4px; color:Direktoratet for mineralforvaltning">
+    </g>
+  </g>
+  <g>
+    <rect x="1177.74" y="647.7" width="22.26" height="26.11" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1177.74" y="647.7" style="font-size:4px; color:Atb as">
+    </g>
+  </g>
+  <g>
+    <rect x="1066.45" y="673.81" width="23.03" height="25.24" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1066.45" y="673.81" style="font-size:4px; color:Valgdirektoratet">
+    </g>
+  </g>
+  <g>
+    <rect x="1066.45" y="699.05" width="23.03" height="25.24" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1066.45" y="699.05" style="font-size:4px; color:Tromsø kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1066.45" y="724.29" width="23.03" height="25.24" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1066.45" y="724.29" style="font-size:4px; color:Ruter as">
+    </g>
+  </g>
+  <g>
+    <rect x="1066.45" y="749.52" width="23.03" height="25.24" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1066.45" y="749.52" style="font-size:4px; color:Sunnfjord kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1066.45" y="774.76" width="23.03" height="25.24" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1066.45" y="774.76" style="font-size:4px; color:Harstad kommune / hársttáid suohkan">
+    </g>
+  </g>
+  <g>
+    <rect x="1089.48" y="673.81" width="22.1" height="26.29" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1089.48" y="673.81" style="font-size:4px; color:Sør-varanger kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1111.58" y="673.81" width="22.1" height="26.29" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1111.58" y="673.81" style="font-size:4px; color:Ka arbeidsgiverorganisasjon for kirkelige virksomheter">
+    </g>
+  </g>
+  <g>
+    <rect x="1133.69" y="673.81" width="22.1" height="26.29" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1133.69" y="673.81" style="font-size:4px; color:Norges bank">
+    </g>
+  </g>
+  <g>
+    <rect x="1155.79" y="673.81" width="22.1" height="26.29" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1155.79" y="673.81" style="font-size:4px; color:Stortinget">
+    </g>
+  </g>
+  <g>
+    <rect x="1177.9" y="673.81" width="22.1" height="26.29" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1177.9" y="673.81" style="font-size:4px; color:Bodø kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1089.48" y="700.1" width="23.27" height="24.97" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1089.48" y="700.1" style="font-size:4px; color:Statnett">
+    </g>
+  </g>
+  <g>
+    <rect x="1089.48" y="725.08" width="23.27" height="24.97" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1089.48" y="725.08" style="font-size:4px; color:Husbanken">
+    </g>
+  </g>
+  <g>
+    <rect x="1089.48" y="750.05" width="23.27" height="24.97" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1089.48" y="750.05" style="font-size:4px; color:Posten norge as">
+    </g>
+  </g>
+  <g>
+    <rect x="1089.48" y="775.03" width="23.27" height="24.97" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1089.48" y="775.03" style="font-size:4px; color:Sauda kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1112.75" y="700.1" width="21.81" height="26.64" fill="#e0cfee" stroke="#ffffff">
+    </rect>
+    <g x="1112.75" y="700.1" style="font-size:4px; color:Ås kommune">
+    </g>
+  </g>
+  <g>
+    <rect x="1134.56" y="700.1" width="21.81" height="26.64" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1134.56" y="700.1" style="font-size:4px; color:Klima- og miljødepartementet">
+    </g>
+  </g>
+  <g>
+    <rect x="1156.37" y="700.1" width="21.81" height="26.64" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1156.37" y="700.1" style="font-size:4px; color:Norsk pensjon as">
+    </g>
+  </g>
+  <g>
+    <rect x="1178.19" y="700.1" width="21.81" height="26.64" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1178.19" y="700.1" style="font-size:4px; color:Enova sf">
+    </g>
+  </g>
+  <g>
+    <rect x="1112.75" y="726.74" width="23.8" height="24.42" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1112.75" y="726.74" style="font-size:4px; color:Statskog">
+    </g>
+  </g>
+  <g>
+    <rect x="1112.75" y="751.16" width="23.8" height="24.42" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1112.75" y="751.16" style="font-size:4px; color:Direktoratet for e-helse">
+    </g>
+  </g>
+  <g>
+    <rect x="1112.75" y="775.58" width="23.8" height="24.42" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1112.75" y="775.58" style="font-size:4px; color:Oslo universitetssykehus hf">
+    </g>
+  </g>
+  <g>
+    <rect x="1136.54" y="726.74" width="21.15" height="27.47" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1136.54" y="726.74" style="font-size:4px; color:Finnmarkseiendommen">
+    </g>
+  </g>
+  <g>
+    <rect x="1157.69" y="726.74" width="21.15" height="27.47" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1157.69" y="726.74" style="font-size:4px; color:Det frivillige Skyttervesen">
+    </g>
+  </g>
+  <g>
+    <rect x="1178.85" y="726.74" width="21.15" height="27.47" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1178.85" y="726.74" style="font-size:4px; color:SPK">
+    </g>
+  </g>
+  <g>
+    <rect x="1136.54" y="754.21" width="25.38" height="22.89" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1136.54" y="754.21" style="font-size:4px; color:Språkrådet">
+    </g>
+  </g>
+  <g>
+    <rect x="1136.54" y="777.11" width="25.38" height="22.89" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1136.54" y="777.11" style="font-size:4px; color:Fylkeskommunene">
+    </g>
+  </g>
+  <g>
+    <rect x="1161.93" y="754.21" width="19.04" height="30.52" fill="#ceddef" stroke="#ffffff">
+    </rect>
+    <g x="1161.93" y="754.21" style="font-size:4px; color:Barne- og familiedepartementet">
+    </g>
+  </g>
+  <g>
+    <rect x="1180.96" y="754.21" width="19.04" height="30.52" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1180.96" y="754.21" style="font-size:4px; color:Norsk institutt for kulturminneforskning">
+    </g>
+  </g>
+  <g>
+    <rect x="1161.93" y="784.74" width="38.07" height="15.26" fill="#f1dcd0" stroke="#ffffff">
+    </rect>
+    <g x="1161.93" y="784.74" style="font-size:4px; color:Gjeldsregisteret as">
+    </g>
+  </g>
+</svg>
